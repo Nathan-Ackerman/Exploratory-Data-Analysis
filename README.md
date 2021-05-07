@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis
+# This repository is a project in which I used Exploratory Data Analysis to examine how home runs have proliferated in Major League Baseball over time. I used a database with every individual batting season of MLB players since 1871, and compared the rate of home runs hit across different eras in baseball to see how the game has changed over time with regard to the long ball.
